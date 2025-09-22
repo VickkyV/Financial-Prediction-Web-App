@@ -27,15 +27,13 @@ This is a **Streamlit-based web application** that predicts whether an individua
 
 ## ⚙️ Installation
 
-1. **Clone this repository** or download the project files  
+1. **Clone this repository or download the project file** 
 
 
-   git clone https://github.com/your-username/financial-prediction-app.git
+   git clone https://github.com/VickkyV/Financial-Prediction-Web-App.git
    cd financial-prediction-app
-   ```bash
-   git clone https://github.com/your-username/financial-prediction-app.git
-   cd financial-prediction-app
-Create a virtual environment (recommended)
+
+2. **Create a virtual environment (recommended)**
 
 bash
 Copy code
