@@ -1,4 +1,5 @@
 # 📊 Financial Prediction Web App
+![alt text](image.png)
 
 This is a **Streamlit-based web application** that predicts whether an individual has a bank account based on demographic and socioeconomic features. The app uses a pre-trained machine learning model (`financial_model_v2.pkl`) to make predictions.  
 
