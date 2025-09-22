@@ -30,30 +30,34 @@ This is a **Streamlit-based web application** that predicts whether an individua
 1. **Clone this repository or download the project file** 
 
 
-   git clone https://github.com/VickkyV/Financial-Prediction-Web-App.git
-   cd financial-prediction-app
+   - git clone https://github.com/VickkyV/Financial-Prediction-Web-App.git
+   - cd financial-prediction-app
 
 2. **Create a virtual environment (recommended)**
 
-bash
-Copy code
-python -m venv venv
-source venv/bin/activate   # On Linux/Mac
-venv\Scripts\activate      # On Windows
-Install dependencies
 
-bash
-Copy code
-pip install -r requirements.txt
-▶️ Usage
+- python -m venv venv
+- source venv/bin/activate   # On Linux/Mac
+- venv\Scripts\activate      # On Windows
+
+3. **Install dependencies**
+
+- pip install -r requirements.txt
+
+## ▶️ Usage
 Run the app with Streamlit:
 
-bash
-Copy code
-streamlit run Financial_prediction_web_app.py
+
+- streamlit run Financial_prediction_web_app.py
 Then, open the link displayed in your terminal (default: http://localhost:8501/) to interact with the app in your browser.
 
-🧑‍💻 Requirements
-Python 3.8+
+## 🧑‍💻 Requirements
+ - Python 3.8+
+ - See requirements.txt for all dependencies
 
-See requirements.txt for all dependencies
+ ## 👨‍💻 Author
+
+**Adeyemi Bisola (VickkyV)**  
+- 💼 GitHub: [VickkyV](https://github.com/VickkyV)  
+- 📧 Email: adeyemibisola92@gmail.com   
+- 🌍 Passionate about Data Science, Machine Learning, and building impactful web applications.  
